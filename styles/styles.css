@@ -1,0 +1,12 @@
+header{
+    border:2px solid black;
+    height: 200px;
+}
+main{
+    height: 650px;
+}
+
+footer{
+    border:2px solid black;
+    height: 100px;
+}
