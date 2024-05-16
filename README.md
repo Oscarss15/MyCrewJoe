@@ -39,9 +39,10 @@ También se ha realizado el sketch, mockup y prototipo de la web diseñada.
 
 
 Enlace a figma con los prototipos:
+[Jira](https://oscarfactoriaf5.atlassian.net/jira/software/projects/SCRUM/boards/1?atlOrigin=eyJpIjoiMTJlZWYzNGMzMGFiNDBjNTg5MDFkMTFiNmIzYjZkNTkiLCJwIjoiaiJ9)
 
 Enlace a Jira:
-[Jira](ttps://oscarfactoriaf5.atlassian.net/jira/software/projects/SCRUM/boards/1?atlOrigin=eyJpIjoiMTJlZWYzNGMzMGFiNDBjNTg5MDFkMTFiNmIzYjZkNTkiLCJwIjoiaiJ9)
+[Jira](https://oscarfactoriaf5.atlassian.net/jira/software/projects/SCRUM/boards/1?atlOrigin=eyJpIjoiMTJlZWYzNGMzMGFiNDBjNTg5MDFkMTFiNmIzYjZkNTkiLCJwIjoiaiJ9)
 
 Aquí esta el enlace a figma:
 
@@ -82,9 +83,9 @@ None
 ## Contact
 
 
-Julia Parra - [Correo](musicaparatodo770@hotmail.com)
-Oscar Sordo Somohano - [Correo](oscar15-91@hotmail.com)
-Eyad - [Correo]()
+Julia Parra - [Correo](musicaparatodo770@hotmail.com)<br>
+Oscar Sordo Somohano - [Correo](oscar15-91@hotmail.com)<br>
+Eyad - [Correo]()<br>
 
 Project Link: [https://github.com/Oscarss15/MyCrewJoe.git](https://github.com/Oscarss15/MyCrewJoe.git)
 
