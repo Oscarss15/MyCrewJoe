@@ -1,0 +1,41 @@
+header{
+    
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+}
+#containerlogo{
+    width: 30%;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+}
+
+#containernombre{
+    width: 70%;
+   
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+}
+
+#imglogo{
+    border-radius: 30%;
+}
+
+      
+#nombreEmpresa{
+    font-size: 80px;
+    font-family: monospace;
+    
+
+}
