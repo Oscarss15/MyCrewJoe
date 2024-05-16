@@ -38,15 +38,14 @@ herramientas usadas.
 También se ha realizado el sketch, mockup y prototipo de la web diseñada.
 
 
-Enlace a figma con los prototipos:
+Enlace a figma con los prototipos:git
 [Jira](https://oscarfactoriaf5.atlassian.net/jira/software/projects/SCRUM/boards/1?atlOrigin=eyJpIjoiMTJlZWYzNGMzMGFiNDBjNTg5MDFkMTFiNmIzYjZkNTkiLCJwIjoiaiJ9)
 
 Enlace a Jira:
 [Jira](https://oscarfactoriaf5.atlassian.net/jira/software/projects/SCRUM/boards/1?atlOrigin=eyJpIjoiMTJlZWYzNGMzMGFiNDBjNTg5MDFkMTFiNmIzYjZkNTkiLCJwIjoiaiJ9)
 
-Aquí esta el enlace a figma:
-
-[Figma](https://www.figma.com/file/F24nPkKXNKlyVDf5foNOsk/1-actvidad-html?type=whiteboard&node-id=342-258&t=AukGL8pch5HelT1W-0)
+Enlace a Figma:
+[Figma](https://www.figma.com/design/2FFpP9ts3286XuJzZ9X81X/Untitled?node-id=10%3A2&t=t1nv5yPOd6XYwwSK-1)
 
 
 
