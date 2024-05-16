@@ -38,13 +38,13 @@ herramientas usadas.
 También se ha realizado el sketch, mockup y prototipo de la web diseñada.
 
 
-Enlace a figma con los prototipos:git
+<b>Enlace a diagrams:</b>
 [Jira](https://oscarfactoriaf5.atlassian.net/jira/software/projects/SCRUM/boards/1?atlOrigin=eyJpIjoiMTJlZWYzNGMzMGFiNDBjNTg5MDFkMTFiNmIzYjZkNTkiLCJwIjoiaiJ9)
 
-Enlace a Jira:
+<b>Enlace a Jira:</b>
 [Jira](https://oscarfactoriaf5.atlassian.net/jira/software/projects/SCRUM/boards/1?atlOrigin=eyJpIjoiMTJlZWYzNGMzMGFiNDBjNTg5MDFkMTFiNmIzYjZkNTkiLCJwIjoiaiJ9)
 
-Enlace a Figma:
+<b>Enlace a Figma con los prototipos:</b>
 [Figma](https://www.figma.com/design/2FFpP9ts3286XuJzZ9X81X/Untitled?node-id=10%3A2&t=t1nv5yPOd6XYwwSK-1)
 
 
@@ -84,7 +84,7 @@ None
 
 Julia Parra - [Correo](musicaparatodo770@hotmail.com)<br>
 Oscar Sordo Somohano - [Correo](oscar15-91@hotmail.com)<br>
-Eyad - [Correo]()<br>
+Eyad - [Correo](eyadcode24@gmail.com)<br>
 
 Project Link: [https://github.com/Oscarss15/MyCrewJoe.git](https://github.com/Oscarss15/MyCrewJoe.git)
 
